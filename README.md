@@ -1,5 +1,7 @@
 # PM Universal Kit / 通用项目管理文件夹套件
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 个人通用的**项目管理文件夹模板**与**思维导图**骨架：复制即可开新项目，不绑定任何行业案例。
 
 ## 这是什么
